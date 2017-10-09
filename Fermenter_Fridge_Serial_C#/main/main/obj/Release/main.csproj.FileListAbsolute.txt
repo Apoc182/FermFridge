@@ -1,0 +1,9 @@
+D:\Fermenter_Fridge_Serial\main\main\bin\Release\main.exe.config
+D:\Fermenter_Fridge_Serial\main\main\bin\Release\main.exe
+D:\Fermenter_Fridge_Serial\main\main\bin\Release\main.pdb
+D:\Fermenter_Fridge_Serial\main\main\obj\Release\main.Form1.resources
+D:\Fermenter_Fridge_Serial\main\main\obj\Release\main.Properties.Resources.resources
+D:\Fermenter_Fridge_Serial\main\main\obj\Release\main.csproj.GenerateResource.Cache
+D:\Fermenter_Fridge_Serial\main\main\obj\Release\main.exe
+D:\Fermenter_Fridge_Serial\main\main\obj\Release\main.pdb
+D:\Fermenter_Fridge_Serial\main\main\obj\Release\main.csprojResolveAssemblyReference.cache

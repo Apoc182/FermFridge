@@ -1,0 +1,9 @@
+D:\Fermenter_Fridge_Serial\main\main\bin\Debug\main.exe.config
+D:\Fermenter_Fridge_Serial\main\main\obj\Debug\main.csprojResolveAssemblyReference.cache
+D:\Fermenter_Fridge_Serial\main\main\obj\Debug\main.Form1.resources
+D:\Fermenter_Fridge_Serial\main\main\obj\Debug\main.Properties.Resources.resources
+D:\Fermenter_Fridge_Serial\main\main\obj\Debug\main.csproj.GenerateResource.Cache
+D:\Fermenter_Fridge_Serial\main\main\bin\Debug\main.exe
+D:\Fermenter_Fridge_Serial\main\main\bin\Debug\main.pdb
+D:\Fermenter_Fridge_Serial\main\main\obj\Debug\main.exe
+D:\Fermenter_Fridge_Serial\main\main\obj\Debug\main.pdb
